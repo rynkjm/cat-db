@@ -1,4 +1,4 @@
-name := """my-scala-intro"""
+name := """cat-db"""
 
 version := "1.0-SNAPSHOT"
 
